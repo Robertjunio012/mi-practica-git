@@ -27,9 +27,6 @@ Aprender a inicializar un repositorio Git y configurar la información básica d
 
 5. Verifica el estado del repositorio:
    ```bash
-   git status
-   ```
-
 ## Verificación
 
 El repositorio debe estar inicializado y configurado correctamente.
